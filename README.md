@@ -6,4 +6,4 @@ This is an example of a book recommendation search result
 
 ![alt text](https://github.com/Vputri/Recomendation-System-Book/blob/master/Recomendation%20System.png)
 
-Demo : bookrecommendationserchenginee.herokuapp.com
+Demo : https://bookrecommendationserchenginee.herokuapp.com/
